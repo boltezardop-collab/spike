@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width"><title>Spike</title><style>body{font-family:sans-serif;text-align:center;padding:60px}h1{font-size:3em}</style></head><body><h1>Spike</h1><p>Clean, modern freelance services.</p><p>Email: hello@spike.com</p></body></html>
